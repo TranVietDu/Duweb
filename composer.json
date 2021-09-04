@@ -1,16 +1,15 @@
 {
-    "name": "Duweb",
-    "type": "library",
-    "description": "Your package description goes here",
-    "keywords": ["relevant","tags","go","here"],
-    "homepage": "https://yourcompany.com",
-    "license": "MIT",
+    "name": "wataridori/bphalcon",
+    "type": "project",
+    "description": "A small library which implement some features to phalcon",
+    "license": "GPL-3.0",
     "authors": [
         {
-             "name": "TranVietDu",
-             "email": "tranvietdu054@gmail.com",
-             "homepage": "http://nhannvt.com",
-             "role": "Developer"
+            "name": "TranVietDu",
+            "email": "tranvietdu054@gmail.com"
         }
-    ]
+    ],
+    "require": {
+        "php": ">=8.0"
+    }
 }
